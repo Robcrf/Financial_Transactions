@@ -1,6 +1,6 @@
 # 📈 Financial Transactions — Unsupervised Anomaly Detection
 
-A recruiter-ready, end-to-end data science project to surface atypical transaction behaviors (financial risk indicators) using unsupervised learning. The project features a polished presentation notebook, disciplined EDA, domain-driven feature engineering, and a scalable Isolation Forest pipeline.
+End-to-end data science project to surface atypical transaction behaviors (financial risk indicators) using unsupervised learning. The project features a polished presentation notebook, disciplined EDA, domain-driven feature engineering, and a scalable Isolation Forest pipeline.
 
 ## 🎯 Why this project
 - 💼 Business-first objective: identify high-risk behaviors without labels.
